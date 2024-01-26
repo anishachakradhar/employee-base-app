@@ -1,0 +1,13 @@
+.DateInput_input_1 {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+}
+
+.DateInput_input {
+  font-size: 14px;
+}
+
+.DateInput_input__disabled {
+  background: #e9ecef;
+  font-style: normal;
+}
